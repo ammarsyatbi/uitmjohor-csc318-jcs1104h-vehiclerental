@@ -1,3 +1,4 @@
 # uitmjohor-csc318-jcs1104h-vehiclerental
-# im testing to update this readme.
-lol it works
+
+This is repository for group project vehicle rental.
+Dont forget to leave a little description log everytime you changed something.
